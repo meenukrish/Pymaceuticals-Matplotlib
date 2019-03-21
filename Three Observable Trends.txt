@@ -1,0 +1,9 @@
+Three Observable trends: 
+
+1. I observe that Tumor response to treatment with Capomulin drug is the most effective compared to Infubinol, Ketapril and Placebo. As the  length of the time(days) increase, there is decrease in the Tumor Volume. 
+
+2. I observe that Metastatic spread of the disease, Capomulin and Ketapril have comparitively lower spread than Infubinol and Placebo.
+
+3. Based on the Summary Bar Chart, the Tumor change over 45 day treatment, I observe that tumor has reducted with Capomulin but has increased in growths with Infubinol, Ketapril and Placebo. 
+
+
